@@ -1,7 +1,7 @@
 
 # JavaScript Exercises 
 
-# Module 1 / Day 2 at Strive School (EPICODE)
+# Module 1 / Day 3 at Strive School (EPICODE)
 # Answers in the index.js file
 
 /*
