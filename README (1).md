@@ -1,3 +1,9 @@
+
+# JavaScript Exercises 
+
+# Module 1 / Day 2 at Strive School (EPICODE)
+# Answers in the index.js file
+
 /*
 ASSIGNMENT RULES
 - All the answers must be written in JavaScript
